@@ -6,7 +6,7 @@
 // @author       AllStorm
 // @match        https://skribbl.io/*
 // @grant        none
-// @updateURL  
+// @updateURL	 https://raw.githubusercontent.com/sh00ter999/skribbl-addon/master/userscript/addon.js
 // ==/UserScript==
 //AllStorm's attempt at a color wheel palette and a save image button.
 
