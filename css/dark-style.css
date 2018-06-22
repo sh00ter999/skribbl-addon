@@ -1,4 +1,8 @@
 body {
-   background-image: url('https://i.imgur.com/zmA2Eeo.png');
-
+   /* background-image: url('test'); */
+   background-image: none;
+   background-color: red;
+   
 }
+
+
