@@ -2,4 +2,8 @@
 Adds a quality of life changes
 
 Better color picker
-Thanks for listening
+* this is 
+* how we 
+* do
+		
+## Thanks for listening
