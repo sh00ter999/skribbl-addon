@@ -1,9 +1,7 @@
 # skribbl-addon
-Adds a quality of life changes
 
-Better color picker
-* this is 
-* how we 
-* do
+I don't remember why I created this three years ago.
+
+As of now, this repository will be archived.
 		
 ## Thanks for listening
